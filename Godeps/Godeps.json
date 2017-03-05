@@ -16,7 +16,7 @@
 		{
 			"ImportPath": "bitbucket.org/ww/goautoneg",
 			"Comment": "null-5",
-			"Rev": "'75cd24fc2f2c2a2088577d12123ddee5f54e0675'"
+			"Rev": "75cd24fc2f2c2a2088577d12123ddee5f54e0675"
 		},
 		{
 			"ImportPath": "cloud.google.com/go/compute/metadata",
@@ -1622,18 +1622,18 @@
 		},
 		{
 			"ImportPath": "github.com/influxdata/influxdb/client",
-			"Comment": "v0.12.2",
-			"Rev": "383332daed5595926c235f250b11433f67229c35"
+			"Comment": "v1.1.1",
+			"Rev": "e47cf1f2e83a02443d7115c54f838be8ee959644"
 		},
 		{
 			"ImportPath": "github.com/influxdata/influxdb/models",
-			"Comment": "v0.12.2",
-			"Rev": "383332daed5595926c235f250b11433f67229c35"
+			"Comment": "v1.1.1",
+			"Rev": "e47cf1f2e83a02443d7115c54f838be8ee959644"
 		},
 		{
 			"ImportPath": "github.com/influxdata/influxdb/pkg/escape",
-			"Comment": "v0.12.2",
-			"Rev": "383332daed5595926c235f250b11433f67229c35"
+			"Comment": "v1.1.1",
+			"Rev": "e47cf1f2e83a02443d7115c54f838be8ee959644"
 		},
 		{
 			"ImportPath": "github.com/jmespath/go-jmespath",
