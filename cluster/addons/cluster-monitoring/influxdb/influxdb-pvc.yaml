@@ -11,5 +11,7 @@ spec:
   resources:
     requests:
       storage: 10Gi
-  volumeName: influxdb-pv
-
+  storageClassName: ""
+  selector:
+    matchLabels:
+      kubernetes.io/name: "influxdb-pv"
